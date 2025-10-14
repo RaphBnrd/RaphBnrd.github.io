@@ -9,26 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "Collection of publications.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "List of projects, either professional or personal.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
+        },{id: "nav-publications",
+          title: "publications",
+          description: "Collection of publications.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -37,29 +30,36 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "projects-birds-and-roads",
-          title: 'Birds and Roads',
-          description: "Studying the impact of forest roads on bird communities (ConFoBi RTG)",
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "projects-️",
+          title: '🐦 🛣️ 🌲',
+          description: "Studying the impact of forest roads on bird communities",
           section: "Projects",handler: () => {
               window.location.href = "/projects/birds_and_roads/";
-            },},{id: "projects-drivers-of-fish-stocks",
-          title: 'Drivers of Fish stocks',
+            },},{id: "projects-️",
+          title: '🐟 🪝 🌡️',
           description: "Identifying drivers of fish stocks using causality assessment framework",
           section: "Projects",handler: () => {
               window.location.href = "/projects/drivers_of_fish_stocks/";
-            },},{id: "projects-ipbes-summary-infography",
-          title: 'IPBES summary infography',
-          description: "A visual summary of the IPBES&#39; Global Assessment Report (French)",
+            },},{id: "projects-",
+          title: '📚 🪲 🌺',
+          description: "Infography on IPBES&#39; Global Assessment Report summarizing key points (French)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/infography_IPBES/";
-            },},{id: "projects-mapping-plant-species",
-          title: 'Mapping Plant Species',
-          description: "Estimating spatio-temporal trends of plant species using Opportunistic Citizen science data",
+            },},{id: "projects-",
+          title: '🌿 🌍 📉',
+          description: "PhD project - Estimating spatio-temporal trends of plant species using Opportunistic Citizen science data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mapping_plant_species/";
-            },},{id: "projects-ornithoquizz",
-          title: 'OrnithoQuizz',
-          description: "A quiz game to train your bird identification skills (audio and image)",
+            },},{id: "projects-",
+          title: '🦜 🎵 ❓',
+          description: "OrnithoQuizz - A quiz game to train your bird identification skills (audio and image)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ornithoquizz_project/";
             },},{
