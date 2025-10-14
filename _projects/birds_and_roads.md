@@ -1,14 +1,19 @@
 ---
 layout: page
-title: Birds and Roads
-description: Studying the impact of forest roads on bird communities (ConFoBi RTG)
+title: 🐦 🛣️ 🌲
+description: Studying the impact of forest roads on bird communities
 img: assets/img/projects/confobi_crop5:7.jpeg
-importance: 3
+importance: -1
 category: work
 related_publications: true
 ---
 
-This project was initiated based on my Master's thesis work within the Research Training Group [ConFoBi](https://confobi.uni-freiburg.de/en) ([projet B6](https://confobi.uni-freiburg.de/en/projects/bird-forest-relationships-b6) on relationships between forest and birds), as part of my Master's degree in Biodiversity, Ecology, and Evolution at the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). It contributed to [Mariela Yapu Alcazar](https://www.researchgate.net/profile/Mariela-Yapu-Alcazar)'s PhD research and also under the supervision of [Michael Wohlwend](https://www.researchgate.net/profile/Michael-Wohlwend). The findings have been accepted in *Ecology and Evolution* {% cite yapu2025effects %}, waiting for publication. The preprint version is still available on [Authorea](https://doi.org/10.22541/au.174617643.38377034/v1).
+This project was based on my Master's thesis work within the Research Training Group [ConFoBi](https://confobi.uni-freiburg.de/en) ([projet B6](https://confobi.uni-freiburg.de/en/projects/bird-forest-relationships-b6) on relationships between forest and birds). It contributed to [Mariela Yapu Alcazar](https://www.researchgate.net/profile/Mariela-Yapu-Alcazar)'s PhD research and I was also under the supervision of [Michael Wohlwend](https://www.researchgate.net/profile/Michael-Wohlwend). 
+
+<div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">
+  > Publication in <i>Ecology and Evolution</i> {% cite yapu2025effects %}. <br>
+  &nbsp;&nbsp;(Preprint version still available on <a href="https://doi.org/10.22541/au.174617643.38377034/v1">Authorea</a>)
+</div>
 
 ### Summary
 
@@ -21,7 +26,7 @@ Overall, the study indicates that **narrow forest roads** have a **limited ecolo
 
 ### Master's Thesis
 
-*Note: the master’s thesis version was not peer-reviewed and may include early-stage analyses that were improved in the preprint.*
+*Note: the master’s thesis version was not peer-reviewed and may include early-stage analyses that were improved in the publication.*
 
 
 <div style="display: flex; justify-content: center; width: 100%;">
@@ -33,7 +38,7 @@ Overall, the study indicates that **narrow forest roads** have a **limited ecolo
 </div>
 
 
-### References in this page
+### References in the summary
 
 * Balestrieri, R., Basile, M., Posillico, M., Altea, T. & Matteucci, G. (2017). Survey effort requirements for bird community assessment in forest habitats. *Acta Ornithologica, 52*(1), 1–9.
 * Bauhus, J., Puettmann, K. J. & Kühne, C. (2013). Close-to-nature forest management in Europe: does it support complexity and adaptability of forest ecosystems? In *Managing forests as complex adaptive systems* (pp. 187–213). Routledge.

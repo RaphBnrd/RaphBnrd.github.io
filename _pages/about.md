@@ -38,4 +38,4 @@ Previously, I worked on the impact of forest roads on bird communities (more det
 
 I'm also involoved in teaching activities at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) in maths, statistics and computer science.
 
-I have a background in applied mathematics and computer science and also a background in ecology. More broadly, I have interests in global changes such as biodiversity loss, pollutions and climate change (scientific background, international negotiations, policies for mitigation and adaptation, etc.).
+I have a background in applied mathematics and computer science and also a background in ecology. More broadly, I have interests in global changes such as biodiversity loss, pollutions and climate change.

@@ -4,10 +4,10 @@ permalink: /teaching/
 title: teaching
 description: List of courses taught and materials used. (in French)
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-### Probabilités, modélisation et statistique
+## 🎲 - Probabilités, modélisation et statistique
 
 *Chargé de cours en 2025-2026*
 
@@ -19,7 +19,7 @@ nav_order: 6
 
 ---
 
-### Utilisation des Systèmes Informatiques
+## 💻 - Utilisation des Systèmes Informatiques
 
 *Chargé de Travaux Pratiques en 2024-2025 et 2025-2026*
 
@@ -33,7 +33,7 @@ nav_order: 6
 
 ---
 
-### Algorithmique
+## 🧮 - Algorithmique
 
 *Chargé de Travaux Pratiques en 2024-2025*
 

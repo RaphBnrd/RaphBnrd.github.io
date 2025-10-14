@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Mapping Plant Species
-description: Estimating spatio-temporal trends of plant species using Opportunistic Citizen science data
+title: 🌿 🌍 📉
+description: PhD project - Estimating spatio-temporal trends of plant species using Opportunistic Citizen science data
 img: assets/img/projects/dactylorhiza_brennensis_crop5:7.jpeg
-importance: 1
+importance: -3
 category: work
 related_publications: true
 ---
 
 This project is my PhD thesis work at Université de Montpellier (France), in [Inria](https://inria.fr/en)/[LIRMM](https://www.lirmm.fr/lirmm-en/) team. It started in October 2024 under the supervision of [Alexis Joly](https://sites.google.com/view/alexis-joly-inria/home/), [Maximilien Servajean](https://maximiliense.github.io/), and [Christophe Botella](http://christophebotella.fr/).
 
-The current directions are described below. `I'm open to suggestions and collaborations, feel free to contact me!`
+The current directions are described below. \\
+`I'm open to suggestions and collaborations, feel free to contact me!`
 
 
 ## Summary
@@ -18,10 +19,10 @@ The current directions are described below. `I'm open to suggestions and collabo
 Monitoring **species distributions** is critical for understanding ecological dynamics and informing conservation efforts, especially in the context of current **global changes**. Although **opportunistic data** from **citizen science** programs offer extensive spatial and temporal coverage, they are affected by substantial sampling and detection biases. This PhD thesis proposes a method for estimating species distributions and their temporal trends from presence-only data using **hierarchical site-occupancy models** that account for both types of bias. We explore the use of deep learning to fit these models efficiently and flexibly. We plan to apply this framework to **real-world datasets, such as Pl@ntNet**, and further investigate model extensions that incorporate more complex observer behaviors and detection processes using various neural network architectures. We will use these models to assess **trends** in plant species in terms of coverage, population changes and range shifts. Furthermore, one of the objectives of this PhD is to study the **factors that influence these trends** such as land use changes, climate change, and pollution.
 
 
-## Part 1: Deep Occupancy Models for Presence-Only Data
+<!-- ## Part 1: Deep Occupancy Models for Presence-Only Data
 
 Opportunistic citizen science datasets are prone to **various biases**, including **sampling bias** (spatio-temporal variations in sampling effort) and **detection bias** (variations in detectability or reporting across species). 
-These phenomena are also evident in the Pl@ntNet dataset, with an increasing number of observations over the years and a higher number of records during spring.
+These phenomena are also evident in the Pl@ntNet dataset, with an increasing number of observations over the years and a higher number of records during spring. -->
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
     <!-- Top row: map + scale + spider -->
@@ -41,11 +42,11 @@ These phenomena are also evident in the Pl@ntNet dataset, with an increasing num
     </div>
     <!-- Legend -->
     <div style="text-align: center; font-size: 0.95em;">
-        <em>Number of observations per month in Pl@ntNet</em>
+        <em>Number of occurrences per month in a subset of validated Pl@ntNet observations</em>
     </div>
 </div> <br>
  
-To address these issues and estimate species distributions using large-scale opportunistic presence-only data, we propose to use **hierarchical occupancy models** that explicitly account for imperfect detection while also correcting for sampling biases.
+<!-- To address these issues and estimate species distributions using large-scale opportunistic presence-only data, we propose to use **hierarchical occupancy models** that explicitly account for imperfect detection while also correcting for sampling biases.
 
 Occupancy models are **identifiable** when the number of sites and visits is sufficiently large. However, this identifiability becomes less clear with **finite datasets**, especially when **detection probabilities are low**. 
 We will conduct experiments on simulated data to assess model identifiability and the accuracy of estimates across various scenarios, including different numbers of sites and visits, detection probabilities, and sampling biases.
@@ -73,4 +74,4 @@ We would also like to explore observer bias in citizen science datasets:
 - Study observer histories to better understand their behavior, providing insights into:
     - characterizing participants in citizen science initiatives (e.g., changes in the **pool of observers** over time), 
     - how individual observers evolve through their contributions (e.g., **specialization**, increasing expertise, learning trajectories in species identification), 
-    - broader patterns in **human views on biodiversity** (e.g., which species are more frequently recorded or overlooked).
+    - broader patterns in **human views on biodiversity** (e.g., which species are more frequently recorded or overlooked). -->

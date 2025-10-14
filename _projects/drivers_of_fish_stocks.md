@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Drivers of Fish stocks
+title: 🐟 🪝 🌡️
 description: Identifying drivers of fish stocks using causality assessment framework 
 img: assets/img/projects/fishes_crop5:7.jpeg
-importance: 2
+importance: -2
 category: work
 related_publications: true
 ---
 
-This project was initiated based on my Master's thesis work within [ISEM](https://isem-evolution.fr/en/equipe/biodiversity-dynamics-interactions-and-conservation-team/), as part of my Engineering Degree at [CentraleSupélec](https://www.centralesupelec.fr/en/) and my Master's degree in Mathematics Applied to Life Sciences at the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en). It was under the supervision of [Vasilis Dakos](https://www.vasilisdakos.info/) and [Alejandro Viloria Cano](https://isem-evolution.fr/en/membre/viloria-cano/). The findings are submitted to the *Journal of the Royal Society Interface*.
+This project was based on my Master's thesis work within [ISEM](https://isem-evolution.fr/en/equipe/biodiversity-dynamics-interactions-and-conservation-team/). It was under the supervision of [Vasilis Dakos](https://www.vasilisdakos.info/) and [Alejandro Viloria Cano](https://isem-evolution.fr/en/membre/viloria-cano/). The findings are still being prepared for publication.
 
 ### Summary
 
@@ -24,7 +24,7 @@ Overall, this work shows that:
 - **Climate warming is a driver**, mainly negative and intensifying over time.
 
 
-### Master's Thesis
+<!-- ### Master's Thesis
 
 Note that the report (Master Thesis) below is not a peer-reviewed work and may contain errors.
 Especially, the section related to the quantification of causal strength using S-map contains errors in methods: in paragraph _2.7 Confidence and Causal Strength_, there is a confusion between cause and consequence variable. 
@@ -35,5 +35,5 @@ Especially, the section related to the quantification of causal strength using S
       <p>Your browser does not support iframes. You can <a href="/assets/pdf/BENERRADI-Rapport_de_stage-2024-3ACS_M2MSV.pdf">download the PDF</a> instead.</p>
     </iframe>
   </div>
-</div>
+</div> -->
 
