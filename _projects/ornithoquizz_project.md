@@ -3,7 +3,8 @@ layout: page
 title: 🦜 🎵 ❓
 description: OrnithoQuizz - A quiz game to train your bird identification skills (audio and image)
 img: assets/img/projects/bird_robin_singing_crop5:7.jpeg
-importance: 1
+image_source: "Robin Singing For Spring by Jan Meeus - <a href='https://unsplash.com/fr/photos/chant-doiseau-sur-larbre-7LsuYqkvIUM'>Unsplash</a> - Unsplash License"
+importance: -2
 category: fun
 ---
 

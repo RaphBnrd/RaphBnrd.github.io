@@ -1,0 +1,28 @@
+<div class="project-image-sources">
+  <h2>Image Sources</h2>
+  <ul>
+    {% assign categories_order = "work,fun" | split: "," %}
+
+    {% comment %}
+      Loop over the ordered categories first
+    {% endcomment %}
+    {% for category in categories_order %}
+      {% assign projects_in_category = site.projects | where: "category", category | sort: "importance" %}
+      {% for project in projects_in_category %}
+        {% if project.image_source %}
+          <li>{{ project.title }}: {{ project.image_source | raw }}</li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+    {% comment %}
+      Then include projects not in work or fun
+    {% endcomment %}
+    {% assign other_projects = site.projects | where_exp: "p", "p.category != 'work' and p.category != 'fun'" | sort: "importance" %}
+    {% for project in other_projects %}
+      {% if project.image_source %}
+        <li>{{ project.title }}: {{ project.image_source | raw }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

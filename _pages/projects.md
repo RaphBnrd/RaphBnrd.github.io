@@ -63,3 +63,5 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+{% include projects_image_sources.liquid %}

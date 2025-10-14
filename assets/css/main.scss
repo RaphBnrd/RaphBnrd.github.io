@@ -23,3 +23,25 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.project-image-sources {
+  margin-top: 2rem;
+
+  h2 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+    color: #666;                // light grey
+  }
+
+  ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+
+    li {
+      font-size: 0.85rem;
+      color: #666;                // light grey
+      font-style: italic;
+      margin-bottom: 0.25rem;
+    }
+  }
+}
