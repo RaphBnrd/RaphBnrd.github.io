@@ -21,20 +21,25 @@ Monitoring **species distributions** is critical for understanding ecological dy
 
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-    <!-- Top row: map + scale + spider -->
-    <div style="display: flex; align-items: center; gap: 8px;">
+  <!-- Top row: map + scale + spider -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: clamp(0px, 5vw, 200px); width: 100%;">
+        <!-- Map + Scale wrapper -->
+        <div style="display: flex; align-items: flex-start; gap: 4px;">
         <!-- Map -->
-        <img src="/assets/img/projects/nbr_obs_plantnet-map.gif" 
-             alt="Map" 
-             style="max-height: 300px; width: auto; display: block; border-radius: 0; margin-right: 0;">
-        <!-- Scale -->
-        <img src="/assets/img/projects/nbr_obs_plantnet-map-scale.png" 
-             alt="Map scale" 
-             style="max-height: 230px; width: auto; display: block; border-radius: 0;">
+        <div style="display: inline-block; position: relative;">
+            <img src="/assets/img/projects/nbr_obs_plantnet-map.gif" 
+                 alt="Map" 
+                 style="max-width: 300px; width: 100%; height: auto; display: block; border-radius: 0;">
+            <!-- Scale -->
+            <img src="/assets/img/projects/nbr_obs_plantnet-map-scale.png" 
+                 alt="Map scale" 
+                 style="height: 70%; width: auto; display: block; border-radius: 0; position: absolute; top: 15%; left: 100%;">
+        </div>
+        </div>
         <!-- Spider -->
         <img src="/assets/img/projects/nbr_obs_plantnet-spider.gif" 
              alt="Spider" 
-             style="max-height: 300px; width: auto; display: block; border-radius: 8px; margin-left: 50px;">
+             style="flex: 1 1 250px; max-width: 270px; height: 90%; display: block; border-radius: 8px;">
     </div>
     <!-- Legend -->
     <div style="text-align: center; font-size: 0.95em;">
