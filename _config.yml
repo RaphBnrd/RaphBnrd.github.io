@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Raphaël Benerradi | PhD student Data Science & Ecology # the website title (if blank, full name will be used instead)
-title_short: Raphaël Benerradi # a shorter version of the title for the navbar (if blank, title will be used instead)
+title: blank # a shorter version of the title for the navbar (if blank, uses first_name + last_name)
+title_metadata: Raphaël Benerradi | PhD student Data Science & Ecology # the title of your site (if blank, uses first_name + last_name)
 first_name: Raphaël
 middle_name: 
 last_name: Benerradi
