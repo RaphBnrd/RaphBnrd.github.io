@@ -39,7 +39,7 @@
     - [x] PhD project: description, with links
     - [x] Internship Freiburg
     - [x] Internship ISEM
-    - [x] Ornithoquizz
+    - [x] Ornithoquiz
     - [x] Infography IPBES
 - [x] CV page
 - [x] teaching page + links

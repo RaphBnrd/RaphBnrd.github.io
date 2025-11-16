@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🦜 🎵 ❓
-description: OrnithoQuizz - A quiz game to train your bird identification skills (audio and image)
+description: OrnithoQuiz - A quiz game to train your bird identification skills (audio and image)
 img: assets/img/projects/bird_robin_singing_crop5:7.jpeg
 image_source: "Robin Singing For Spring by Jan Meeus - <a href='https://unsplash.com/fr/photos/chant-doiseau-sur-larbre-7LsuYqkvIUM'>Unsplash</a> - Unsplash License"
 importance: -2
@@ -10,7 +10,8 @@ category: fun
 
 <span style="font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace; font-size: 1.1em;">
 Let's play here 👉 <strong><a href="http://raphbnrd.pythonanywhere.com/">OrnithoQuizz</a></strong>
-</span>
+<br>
+A new version is in preparation (draft): 👉 <strong><a href="https://ornithoquiz.vercel.app/">OrnithoQuiz</a></strong> 
 
 During my Master's Thesis internship at the University of Freiburg (more details on this project [here](/projects/birds_and_roads/)), I had to learn bird identification starting from zero. To do so, I created a quiz game... Since it may be useful for others, I made it available online. 
 
