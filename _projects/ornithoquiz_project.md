@@ -9,9 +9,14 @@ category: fun
 ---
 
 <span style="font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace; font-size: 1.1em;">
-Let's play here 👉 <strong><a href="http://raphbnrd.pythonanywhere.com/">OrnithoQuizz</a></strong>
+Let's play here 👉 <strong><a href="https://ornithoquiz.vercel.app/">OrnithoQuiz</a></strong> 
+</span>
 <br>
-A new version is in preparation (draft): 👉 <strong><a href="https://ornithoquiz.vercel.app/">OrnithoQuiz</a></strong> 
+<em> This version is still in development. Do not hesitate to give feedbacks or contribute on the <a href="https://gitlab.com/RaphBnrd/ornithoquiz">GitLab repository</a>. </em>
+
+<span style="font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace; font-size: 1.1em;">
+Previous version 👉 <strong><a href="http://raphbnrd.pythonanywhere.com/">OrnithoQuizz</a></strong>
+</span>
 
 During my Master's Thesis internship at the University of Freiburg (more details on this project [here](/projects/birds_and_roads/)), I had to learn bird identification starting from zero. To do so, I created a quiz game... Since it may be useful for others, I made it available online. 
 
