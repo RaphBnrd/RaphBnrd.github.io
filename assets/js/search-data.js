@@ -59,9 +59,9 @@ ninja.data = [{
               window.location.href = "/projects/mapping_plant_species/";
             },},{id: "projects-",
           title: '🦜 🎵 ❓',
-          description: "OrnithoQuizz - A quiz game to train your bird identification skills (audio and image)",
+          description: "OrnithoQuiz - A quiz game to train your bird identification skills (audio and image)",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/ornithoquizz_project/";
+              window.location.href = "/projects/ornithoquiz_project/";
             },},{
         id: 'social-email',
         title: 'email',
