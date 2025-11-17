@@ -12,8 +12,8 @@ related_publications: true
 This project was based on my Master's thesis work within the Research Training Group [ConFoBi](https://confobi.uni-freiburg.de/en) ([projet B6](https://confobi.uni-freiburg.de/en/projects/bird-forest-relationships-b6) on relationships between forest and birds). It contributed to [Mariela Yapu Alcazar](https://www.researchgate.net/profile/Mariela-Yapu-Alcazar)'s PhD research and I was also under the supervision of [Michael Wohlwend](https://www.researchgate.net/profile/Michael-Wohlwend). 
 
 <div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">
-  > Publication in <i>Ecology and Evolution</i> {% cite yapu2025effects %}. <br>
-  &nbsp;&nbsp;(Preprint version still available on <a href="https://doi.org/10.22541/au.174617643.38377034/v1">Authorea</a>)
+  > Publication in <i>Ecology and Evolution</i> {% cite yapu2025effects %} 👉 
+  <a href="https://doi.org/10.1002/ece3.72466">html</a>, <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/ece3.72466">pdf</a>
 </div>
 
 ### Summary
@@ -24,6 +24,15 @@ This project explored how **unpaved forest roads and paths** influence **bird co
 
 Overall, the study indicates that **narrow forest roads** have a **limited ecological footprint** on bird assemblages in structurally diverse, managed forests. This work contributes to understanding **small-scale fragmentation** and complements broader research on **road ecology** (Coffin et al., 2021; Wu et al., 2023).
 
+### Publication
+
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="width: 80%; height: 600px;">
+    <iframe src="/assets/pdf/publi/01-yapu2025effects.pdf" style="width: 100%; height: 80%;" frameborder="0">
+      <p>Your browser does not support iframes. You can <a href="/assets/pdf/publi/01-yapu2025effects.pdf">download the PDF</a> instead.</p>
+    </iframe>
+  </div>
+</div>
 
 ### Master's Thesis
 
