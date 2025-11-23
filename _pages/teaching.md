@@ -12,6 +12,7 @@ nav_order: 4
   <a href="https://seafile.lirmm.fr/d/ca77cc27ba9a4200a859/">Seafile</a>
 </div>
 
+
 ## 🎲 - Probabilités, modélisation et statistique
 
 *Chargé de cours en 2025-2026*
@@ -21,6 +22,17 @@ nav_order: 4
 - Cours : [Chapitre 1](/assets/pdf/courses/DO3-proba_stats/ch1-proba_intro_rappels.pdf) \| [Chapitre 2](/assets/pdf/courses/DO3-proba_stats/ch2-variables_aleatoires.pdf) \| [Chapitre 3](/assets/pdf/courses/DO3-proba_stats/ch3-vecteur_aleatoire.pdf) \| [Chapitre 4](/assets/pdf/courses/DO3-proba_stats/ch4-convergence_v_a.pdf) \| [Chapitre 5](/assets/pdf/courses/DO3-proba_stats/ch5-statistique_inferentielle.pdf)
 - TD : [Livret](/assets/pdf/courses/DO3-proba_stats/TD-livret.pdf)
 - Exams précédents : 
+
+---
+
+## 🤖 - Introduction à l'IA et ses enjeux
+
+*Chargé de cours en 2025-2026*
+
+**Cours de Semestre 6 de DevOps de Polytech Montpellier (1 séance)**
+
+- Slides : 
+- Code partie TP : [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session)
 
 ---
 

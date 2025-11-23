@@ -11,3 +11,13 @@ assets/libs/
 node_modules/
 vendor
 .idea
+
+source_images.md
+.github/workflows/codeql.yml
+.github/workflows/lighthouse-badger.yml
+.github/workflows/prettier copy.yml
+assets/img/projects/bird_robin_singing.png
+assets/img/projects/confobi.jpeg
+assets/img/projects/dactylorhiza_brennensis.jpg
+assets/img/projects/fishes.jpg
+assets/img/projects/pour_un_reveil_ecologique.png
