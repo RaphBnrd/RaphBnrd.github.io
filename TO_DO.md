@@ -29,7 +29,7 @@
 ## Update some content
 
 - [ ] General
-    - [ ] Change footnote
+    - [x] Change footnote
     - [ ] Change colors of theme
 - [x] About page
     - [x] Text in about
