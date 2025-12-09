@@ -62,6 +62,11 @@ ninja.data = [{
           description: "OrnithoQuiz - A quiz game to train your bird identification skills (audio and image)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ornithoquiz_project/";
+            },},{id: "projects-️",
+          title: '🗣️ → 📝',
+          description: "A local speech-to-text application using VOSK",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/speech_to_text_local_app/";
             },},{
         id: 'social-email',
         title: 'email',
