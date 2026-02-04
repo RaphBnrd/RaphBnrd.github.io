@@ -9,7 +9,7 @@ nav_order: 4
 
 <div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">
   Partage rapide de documents et ressources : 
-  <a href="https://seafile.lirmm.fr/d/ca77cc27ba9a4200a859/">Seafile</a>
+  <a href="https://seafile.lirmm.fr/d/9349c4981e0e4f2c8009/">Seafile</a>
 </div>
 
 
