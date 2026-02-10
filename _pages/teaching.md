@@ -9,7 +9,7 @@ nav_order: 4
 
 <div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">
   Partage rapide de documents et ressources : 
-  <a href="https://seafile.lirmm.fr/d/9349c4981e0e4f2c8009/">Seafile</a>
+  <a href="https://seafile.lirmm.fr/d/64a6fb4441764319af42/">Seafile</a>
 </div>
 
 
@@ -31,8 +31,8 @@ nav_order: 4
 
 **Cours de Semestre 6 de DevOps de Polytech Montpellier (1 séance)**
 
-- Slides : 
-- Code partie TP : [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session)
+- Cours : [Google Slides](https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing)
+- TP : [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session)
 
 ---
 
