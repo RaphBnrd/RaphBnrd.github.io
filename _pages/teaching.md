@@ -19,8 +19,9 @@ nav_order: 4
 
 **Cours de Semestre 6 de DevOps de Polytech Montpellier**
 
-- Cours : [Chapitre 1](/assets/pdf/courses/DO3-proba_stats/ch1-proba_intro_rappels.pdf) \| [Chapitre 2](/assets/pdf/courses/DO3-proba_stats/ch2-variables_aleatoires.pdf) \| [Chapitre 3](/assets/pdf/courses/DO3-proba_stats/ch3-vecteur_aleatoire.pdf) \| [Chapitre 4](/assets/pdf/courses/DO3-proba_stats/ch4-convergence_v_a.pdf) \| [Chapitre 5](/assets/pdf/courses/DO3-proba_stats/ch5-statistique_inferentielle.pdf)
-- TD : [Livret](/assets/pdf/courses/DO3-proba_stats/TD-livret.pdf)
+- Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260214.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260214.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260214.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260214.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260214.pdf)
+- TD : [Livret](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf)
+- Scripts : [Figures cours](/assets/courses/DO3-proba_stats/DO3_PrSt-script_for_slides-20260214.R)
 - Exams précédents : 
 
 ---
