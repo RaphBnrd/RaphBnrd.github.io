@@ -2,7 +2,7 @@
 layout: page
 title: 📚 🪲 🌺
 description: Infography on IPBES' Global Assessment Report summarizing key points (French)
-img: assets/img/projects/pour_un_reveil_ecologique_crop5:7.jpeg
+img: assets/img/projects/pour_un_reveil_ecologique_crop5_7.jpeg
 image_source: "Pour un réveil écologique by Facebook Page - <a href='https://www.facebook.com/photo.php?fbid=446087482683894&id=269438040348840&set=a.269438057015505'>Facebook</a>"
 importance: -1
 category: fun

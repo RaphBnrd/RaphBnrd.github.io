@@ -2,7 +2,7 @@
 layout: page
 title: 🌿 🌍 📉
 description: PhD project - Estimating spatio-temporal trends of plant species using Opportunistic Citizen science data
-img: assets/img/projects/dactylorhiza_brennensis_crop5:7.jpeg
+img: assets/img/projects/dactylorhiza_brennensis_crop5_7.jpeg
 image_source: "Dactylorhiza brennensis by MATIGNON Théo - <a href='https://obsindre.fr/index.php?module=observation&action=detail&idobs=990734'>Indre Nature</a>"
 importance: -3
 category: work

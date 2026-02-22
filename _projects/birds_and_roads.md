@@ -2,7 +2,7 @@
 layout: page
 title: 🐦 🛣️ 🌲
 description: Studying the impact of forest roads on bird communities
-img: assets/img/projects/confobi_crop5:7.jpeg
+img: assets/img/projects/confobi_crop5_7.jpeg
 image_source: "Confobi by Confobi Team - <a href='https://confobi.uni-freiburg.de/en/projects'>Confobi</a>"
 importance: -1
 category: work

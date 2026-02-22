@@ -2,7 +2,7 @@
 layout: page
 title: 🐟 🪝 🌡️
 description: Identifying drivers of fish stocks using causality assessment framework 
-img: assets/img/projects/fishes_crop5:7.jpeg
+img: assets/img/projects/fishes_crop5_7.jpeg
 image_source: “Black Snapper (Macolor niger)” by Derek Keats — <a href='https://www.flickr.com/photos/dkeats/6369644393'>Flickr</a> — <a href='https://creativecommons.org/licenses/by/2.0/'>CC BY 2.0</a>
 importance: -2
 category: work
