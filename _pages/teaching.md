@@ -23,7 +23,7 @@ nav_order: 4
 - TD : [Livret](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf)
 - Scripts : [Figures cours](/assets/courses/DO3-proba_stats/DO3_PrSt-script_for_slides-20260214.R)
 - Exams précédents :
-  - Interros 2025-2026 : [Interro 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323.pdf) \| [Correction 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323-correction.pdf) \| [Interro 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323.pdf) \| [Correction 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323-correction.pdf)
+  - Interros 2025-2026 : [Interro 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323.pdf) \| [Correction 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323-correction.pdf) \| [Interro 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323.pdf) \| [Correction 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323-correction.pdf) \| [Interro 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326.pdf) \| [Correction 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326-correction.pdf)
 
 ---
 
