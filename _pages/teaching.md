@@ -19,11 +19,11 @@ nav_order: 4
 
 **Cours de Semestre 6 de DevOps de Polytech Montpellier**
 
-- Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260323.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260323.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260323.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260323.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260323.pdf)
-- TD : [Livret](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf)
+- Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260327.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260323.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260323.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260323.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260323.pdf)
+- TD : [Livret d'exercices](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf) - [Exercices de révisions](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-exos_revision-20260327.pdf)
 - Scripts : [Figures cours](/assets/courses/DO3-proba_stats/DO3_PrSt-script_for_slides-20260214.R)
 - Exams précédents :
-  - Interros 2025-2026 : [Interro 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323.pdf) \| [Correction 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323-correction.pdf) \| [Interro 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323.pdf) \| [Correction 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323-correction.pdf) \| [Interro 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326.pdf) \| [Correction 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326-correction.pdf)
+  - 2025-2026 : [Interro 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323.pdf) - [Correction 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323-correction.pdf) \| [Interro 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323.pdf) - [Correction 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323-correction.pdf) \| [Interro 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326.pdf) - [Correction 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326-correction.pdf) \| [Examen final](/assets/courses/DO3-proba_stats/DO3_PrSt-exam-2025_2026-20260326.pdf) - [Correction exam](/assets/courses/DO3-proba_stats/DO3_PrSt-exam-2025_2026-20260327-correction.pdf)
 
 ---
 
