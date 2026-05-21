@@ -1,0 +1,31 @@
+<!-- _includes/repository/repo_user_simple.liquid -->
+<div class="repo p-2">
+  <div class="repo-user-simple-card h-100">
+    <div class="repo-user-simple-header">
+      <img
+        class="repo-user-simple-avatar"
+        src="https://github.com/{{ include.username }}.png?size=96"
+        alt="{{ include.username }}"
+        loading="lazy"
+      >
+
+      <div class="repo-user-simple-meta">
+        <h5 class="repo-user-simple-name">
+          <a href="https://github.com/{{ include.username }}" target="_blank" rel="noopener noreferrer">
+            {{ include.username }}
+          </a>
+        </h5>
+      </div>
+      <div class="repo-user-simple-links">
+        <a
+          class="repo-user-simple-repos"
+          href="https://github.com/{{ include.username }}?tab=repositories"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Repositories
+        </a>
+      </div>
+    </div>
+
+</div>

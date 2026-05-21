@@ -1,0 +1,13 @@
+# _data/packages.yml
+python_packages:
+  - name: OccuPYcy
+    # pypi: occupycy
+    description: A Python package for occupancy modeling and analysis.
+    # badgename: PyPI
+    # tags: [python, pypi, ecology]
+    badgename: Python
+    tags: [python, ecology]
+    github: RaphBnrd/OccuPYcy
+    docs: https://github.com/RaphBnrd/OccuPYcy/blob/main/README.md
+    featured: true
+  

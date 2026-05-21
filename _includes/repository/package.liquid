@@ -1,0 +1,69 @@
+<!-- _includes/repository/package.liquid -->
+<div class="repo p-2">
+  <div class="package-card h-100">
+    <div class="package-card-header">
+      <div>
+        <h5 class="package-title mb-1">
+        {% if include.package.pypi %}
+          <a href="https://pypi.org/project/{{ include.package.pypi }}/" target="_blank" rel="noopener noreferrer">
+            {{ include.package.name }}
+          </a>
+
+        {% elsif include.package.github %}
+          <a href="https://github.com/{{ include.package.github }}" target="_blank" rel="noopener noreferrer">
+            {{ include.package.name }}
+          </a>
+
+        {% else %}
+          {{ include.package.name }}
+        {% endif %}
+        </h5>
+        <div class="package-subtitle">Python package</div>
+      </div>
+
+      {% if include.package.badgename %}
+        <span class="package-badge">{{ include.package.badgename }}</span>
+      {% endif %}
+    </div>
+
+    <p class="package-description">
+      {{ include.package.description }}
+    </p>
+
+    {% if include.package.tags %}
+      <div class="package-tags">
+        {% for tag in include.package.tags %}
+          <span class="package-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    <div class="package-links">
+      {% if include.package.pypi %}
+      <a href="https://pypi.org/project/{{ include.package.pypi }}/" target="_blank" rel="noopener noreferrer">
+        PyPI
+      </a>
+        {% if include.package.github %}
+          <span class="sep">·</span>
+        {% elsif include.package.docs %}
+          <span class="sep">·</span>
+        {% endif %}
+      {% endif %}
+
+      {% if include.package.github %}
+        <a href="https://github.com/{{ include.package.github }}" target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
+        {% if include.package.docs %}
+          <span class="sep">·</span>
+        {% endif %}
+      {% endif %}
+
+      {% if include.package.docs %}
+        <a href="{{ include.package.docs }}" target="_blank" rel="noopener noreferrer">
+          Docs
+        </a>
+      {% endif %}
+    </div>
+  </div>
+</div>

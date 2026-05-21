@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - username: RaphBnrd
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RaphBnrd/OccuPYcy
+  - RaphBnrd/RAMLDB_causality
+  - RaphBnrd/AI-Impacts-lab_session
+  - RaphBnrd/BirdCommunities_Roads

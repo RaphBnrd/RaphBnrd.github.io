@@ -8,8 +8,9 @@ subtitle: >-
 
 profile:
   align: right
-  image: raphael_pic_crop2.jpeg
-  image_circular: false # crops the image to make it circular
+  image: raphael_pic.jpg
+  image_shape: diagonal # default, diagonal, circular, square
+  # image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>LIRMM, Bâtiment 5</p>
   #   <p>860 rue St Priest</p>

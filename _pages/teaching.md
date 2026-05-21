@@ -17,7 +17,7 @@ nav_order: 4
 
 *Chargé de cours en 2025-2026*
 
-**Cours de Semestre 6 de DevOps de Polytech Montpellier**
+**Cours de Semestre 6 de DevOps de Polytech Montpellier (équivalent L3)**
 
 - Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260327.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260323.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260323.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260323.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260323.pdf)
 - TD : [Livret d'exercices](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf) - [Exercices de révisions](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-exos_revision-20260327.pdf)
@@ -31,7 +31,7 @@ nav_order: 4
 
 *Chargé de cours en 2025-2026*
 
-**Cours de Semestre 6 de DevOps de Polytech Montpellier (1 séance)**
+**Cours de Semestre 6 de DevOps de Polytech Montpellier (équivalent L3)**
 
 - Cours : [Google Slides](https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing)
 - TP : [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session)
@@ -42,7 +42,7 @@ nav_order: 4
 
 *Chargé de Travaux Pratiques en 2024-2025 et 2025-2026*
 
-**Cours de Semestre 1 de Prépa Intégré (PEIP) de Polytech Montpellier**
+**Cours de Semestre 1 PEIP de Polytech Montpellier (prépa intégrée équivalent L1)**
 
 - Introduction aux systèmes d'exploitation et à la programmation
 - Récursivité, Algorithmique combinatoire
@@ -56,7 +56,7 @@ nav_order: 4
 
 *Chargé de Travaux Pratiques en 2024-2025*
 
-**Cours de Semestre 2 de Prépa Intégré (PEIP) de Polytech Montpellier**
+**Cours de Semestre 2 PEIP de Polytech Montpellier (prépa intégrée équivalent L1)**
 
 - Réprésentation des nombres en binaire
 - Interpolation (polynômes de Lagrange), Approximation (modèles linéaires)
