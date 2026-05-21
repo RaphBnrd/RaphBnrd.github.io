@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-code",
+          title: "code",
+          description: "List of code packages, repositories and GitHub profiles.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -62,6 +69,11 @@ ninja.data = [{
           description: "OrnithoQuiz - A quiz game to train your bird identification skills (audio and image)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ornithoquiz_project/";
+            },},{id: "projects-️",
+          title: '🧑‍💻 🐍 🕵️',
+          description: "Python package for occupancy modeling (survey with imperfect detection) suited for deep learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/package_occupycy/";
             },},{id: "projects-️",
           title: '🗣️ → 📝',
           description: "A local speech-to-text application using VOSK",
