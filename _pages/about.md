@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 2nd year PhD student at University of Montpellier (France), mainly in the Inria team [IROKO](https://team.inria.fr/iroko/) at LIRMM. I'm working under the supervision of [Alexis Joly](https://sites.google.com/view/alexis-joly-inria/home/), [Maximilien Servajean](https://maximiliense.github.io/), and [Christophe Botella](http://christophebotella.fr/). This project is integrated into the [Pl@ntNet](https://www.plantnet.org/en/) project, a citizen science project for plant identification and biodiversity monitoring.
+I'm a 2nd year PhD student at University of Montpellier (France), mainly in the Inria team [IROKO](https://team.inria.fr/iroko/) at LIRMM. I'm working under the supervision of [Alexis Joly](https://sites.google.com/view/alexis-joly-inria/home/), [Maximilien Servajean](https://maximiliense.github.io/), and [Christophe Botella](http://christophebotella.fr/). This project is integrated into [Pl@ntNet](https://www.plantnet.org/en/), a citizen science project for plant identification and biodiversity monitoring.
 
 My research is focused on **plant diversity monitoring**. In particular, I am interested in statistics and machine learning techniques for **Species Distribution Models** (SDM) using **Citizen Science** data. These methods aim to keep track of plant species distributions and their changes over time, in order to better understand the impact of global changes on biodiversity (more details [here](/projects/mapping_plant_species/)).
 
