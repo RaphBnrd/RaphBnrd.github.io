@@ -67,6 +67,15 @@ To do so, we developed a Python package called **OccuPYcy** for occupancy modeli
 
 More details in the [project page](/projects/package_occupycy/) or in the GitHub repository below:
 
+`The package is nearly cooked and will be released soon! 🧑‍🍳` 
+*Expected launch: end of June 2026.*
+
+<div align="center">
+  <img src="/assets/img/projects/ratatouille.gif" 
+        alt="Ratatouille" 
+        style="max-width: 300px; width: 100%; height: auto; display: block; border-radius: 15px;">
+</div>
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for package in site.data.packages.python_packages %}
     {% if package.name == "OccuPYcy" %}
@@ -74,3 +83,22 @@ More details in the [project page](/projects/package_occupycy/) or in the GitHub
     {% endif %}
   {% endfor %}
 </div>
+
+
+<!-- ## Part 2: Estimating Temporal Trends using Opportunistic Data
+
+This section focuses on estimating **temporal trends** in species distributions using opportunistic presence-only data from citizen science programs. 
+We will first apply **traditional methods** (e.g., Frescalo, Telfer) for estimating temporal trends. 
+Next, we will investigate whether **occupancy models** can be used to estimate temporal trends and evaluate whether **deep learning** can improve the efficiency of model fitting.
+
+## Other ideas
+
+Building on the previous methodological developments, we aim to explore several additional topics related to plant ecology:
+- Investigate **drivers** of plant species distributions and their temporal changes (e.g., land use, climate, pollution).
+- Study rapid phenomena, such as **extreme climate events**, **invasive species**, or **sudden population declines**.
+
+We would also like to explore observer bias in citizen science datasets:
+- Study observer histories to better understand their behavior, providing insights into:
+    - characterizing participants in citizen science initiatives (e.g., changes in the **pool of observers** over time), 
+    - how individual observers evolve through their contributions (e.g., **specialization**, increasing expertise, learning trajectories in species identification), 
+    - broader patterns in **human views on biodiversity** (e.g., which species are more frequently recorded or overlooked). -->
