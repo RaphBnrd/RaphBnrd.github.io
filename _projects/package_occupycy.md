@@ -18,7 +18,7 @@ related_publications: false
 You can find the GitHub repository and documentation below. It includes installation instructions, usage examples, and a detailed description of the package's features and capabilities. Feel free to explore, use, and contribute!
 
 `The package is nearly cooked and will be released soon! 🧑‍🍳` 
-*Expected launch: end of June 2026.*
+*Expected launch: middle of July 2026.*
 
 <div align="center">
   <img src="/assets/img/projects/ratatouille.gif" 
