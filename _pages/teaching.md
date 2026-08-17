@@ -15,15 +15,27 @@ nav_order: 4
 
 ## 🎲 - Probabilités, modélisation et statistique
 
-*Chargé de cours en 2025-2026*
+*Chargé de cours en 2025-2026 et 2026-2027*
 
 **Cours de Semestre 6 de DevOps de Polytech Montpellier (équivalent L3)**
 
-- Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260327.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260323.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260323.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260323.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260323.pdf)
+- Cours : [Chapitre 1](/assets/courses/DO3-proba_stats/DO3_PrSt-ch1-proba_intro_rappels-20260817.pdf) \| [Chapitre 2](/assets/courses/DO3-proba_stats/DO3_PrSt-ch2-variables_aleatoires-20260817.pdf) \| [Chapitre 3](/assets/courses/DO3-proba_stats/DO3_PrSt-ch3-vecteur_aleatoire-20260817.pdf) \| [Chapitre 4](/assets/courses/DO3-proba_stats/DO3_PrSt-ch4-convergence_v_a-20260817.pdf) \| [Chapitre 5](/assets/courses/DO3-proba_stats/DO3_PrSt-ch5-statistique_inferentielle-20260817.pdf)
 - TD : [Livret d'exercices](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-livret-20260214.pdf) - [Exercices de révisions](/assets/courses/DO3-proba_stats/DO3_PrSt-TD-exos_revision-20260327.pdf)
 - Scripts : [Figures cours](/assets/courses/DO3-proba_stats/DO3_PrSt-script_for_slides-20260214.R)
 - Exams précédents :
   - 2025-2026 : [Interro 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323.pdf) - [Correction 1](/assets/courses/DO3-proba_stats/DO3_PrSt-interro1-2025_2026-20260323-correction.pdf) \| [Interro 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323.pdf) - [Correction 2](/assets/courses/DO3-proba_stats/DO3_PrSt-interro2-2025_2026-20260323-correction.pdf) \| [Interro 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326.pdf) - [Correction 3](/assets/courses/DO3-proba_stats/DO3_PrSt-interro3-2025_2026-20260326-correction.pdf) \| [Examen final](/assets/courses/DO3-proba_stats/DO3_PrSt-exam-2025_2026-20260326.pdf) - [Correction exam](/assets/courses/DO3-proba_stats/DO3_PrSt-exam-2025_2026-20260327-correction.pdf)
+  - 2026-2027 : 
+
+---
+
+## 📊 - Statistique et science des données
+
+*Chargé de cours en 2026-2027*
+
+**Cours de Semestre 8 de DevOps de Polytech Montpellier (équivalent M1)**
+
+- Cours : 
+- TD : 
 
 ---
 

@@ -2,5 +2,9 @@
   color: "#499EAD"
   url: https://onlinelibrary.wiley.com/journal/20457758
 
+"J. R. Soc. Interface.":
+  color: "#C4344B" # "#99277D"
+  url: https://royalsocietypublishing.org/rsif
+
 "Preprint":
   color: "#D1A3AA"

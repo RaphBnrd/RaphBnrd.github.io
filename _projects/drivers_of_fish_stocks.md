@@ -12,8 +12,8 @@ related_publications: true
 This project was based on my Master's thesis work within [ISEM](https://isem-evolution.fr/en/equipe/biodiversity-dynamics-interactions-and-conservation-team/). It was under the supervision of [Vasilis Dakos](https://www.vasilisdakos.info/) and [Alejandro Viloria Cano](https://isem-evolution.fr/en/membre/viloria-cano/). The findings are still being prepared for publication.
 
 <div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">
-  > A preprint version is available in <i>HAL</i> {% cite benerradi2025sensitivity %} 👉 
-  <a href="https://hal.science/hal-05337021">html</a>, <a href="https://hal.science/hal-05337021/document">pdf</a>
+  > Publication in the <i>Journal of The Royal Society Interface</i> {% cite benerradi2026sensitivity %} 👉 
+  <a href="https://doi.org/10.1098/rsif.2025.1040">html</a>, <a href="https://royalsocietypublishing.org/rsif/article-pdf/doi/10.1098/rsif.2025.1040/6157114/rsif.2025.1040.pdf">pdf</a>
 </div>
 
 ### Summary
@@ -29,12 +29,12 @@ Overall, this work shows that:
 - **Fishing remains the dominant driver**, but its effect depends on the stock, even if often getting more negative over time.
 - **Climate warming is a driver**, mainly negative and intensifying over time.
 
-### Preprint
+### Publication
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <div style="width: 80%; height: 600px;">
-    <iframe src="/assets/pdf/publi/02-benerradi2025sensitivity.pdf" style="width: 100%; height: 80%;" frameborder="0">
-      <p>Your browser does not support iframes. You can <a href="/assets/pdf/publi/02-benerradi2025sensitivity.pdf">download the PDF</a> instead.</p>
+    <iframe src="/assets/pdf/publi/02-benerradi2026sensitivity.pdf" style="width: 100%; height: 80%;" frameborder="0">
+      <p>Your browser does not support iframes. You can <a href="/assets/pdf/publi/02-benerradi2026sensitivity.pdf">download the PDF</a> instead.</p>
     </iframe>
   </div>
 </div>
