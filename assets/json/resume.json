@@ -43,7 +43,8 @@
       "startDate": "2024-10",
       "endDate": "2027-09",
       "highlights": [
-        "Probabilities, Modeling, and Statistics (3rd-year undergraduate)",
+        "Probabilities, Modeling, and Statistics (3rd and 4th-year undergraduate)",
+        "Generative AI and Its Issues : Environment and Society (3rd and 4th-year undergraduate)",
         "Algorithms (1st-year undergraduate)",
         "Introduction to Computer Science (1st-year undergraduate)"
       ]
@@ -60,8 +61,8 @@
         "Statistics, Deep learning, Plant ecology",
         "Using Citizen Science data from <a href=\"https://plantnet.org/en/\" target=\"_blank\">Pl@ntNet</a>",
         "Species Distribution Models",
-        "Trends and Drivers",
-        "Supervision: <a href=\"https://sites.google.com/view/alexis-joly-inria/home\" target=\"_blank\">Alexis Joly</a>, <a href=\"https://maximiliense.github.io/\" target=\"_blank\">Maximilien Servajean</a>, and <a href=\"http://christophebotella.fr/\" target=\"_blank\">Christophe Botella</a>"
+        "Trends, Drivers, Observer bias",
+        "Supervision: <a href=\"https://www-sop.inria.fr/members/Alexis.Joly/\" target=\"_blank\">Alexis Joly</a>, <a href=\"https://maximiliense.github.io/\" target=\"_blank\">Maximilien Servajean</a>, and <a href=\"http://christophebotella.fr/\" target=\"_blank\">Christophe Botella</a>"
       ]
     },
     {

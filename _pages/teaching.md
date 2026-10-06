@@ -13,9 +13,22 @@ nav_order: 4
 </div>
 
 
+## 🤖 - Introduction à l'IA et ses enjeux
+
+**Chargé de cours à Polytech Montpellier** 
+
+*En DaMS 4 (~M1) : 3h en 2026-2027*  
+*En DevOps 3 (~L3) : 1h30 en 2025-2026 et 3h en 2026-2027*
+
+- Cours : [Slides](https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing)
+- Atelier : *non partagé pour ne pas spoiler les étudiant·e·s (je peux bien sûr transmettre le contenu sur demande)*
+- TP : [Notebook](https://colab.research.google.com/drive/12DY1tKljbFLElO84SCm1qN7MdP0eJ8uI?usp=sharing) *(contenu additionnels sur [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session))*
+
+---
+
 ## 🎲 - Probabilités, modélisation et statistique
 
-*Chargé de cours en 2025-2026 et 2026-2027*
+*Chargé de cours en 2025-2026 (27h) et 2026-2027 (27h)*
 
 **Cours de Semestre 6 de DevOps de Polytech Montpellier (équivalent L3)**
 
@@ -30,7 +43,7 @@ nav_order: 4
 
 ## 📊 - Statistique et science des données
 
-*Chargé de cours en 2026-2027*
+*Chargé de cours en 2026-2027 (18h)*
 
 **Cours de Semestre 8 de DevOps de Polytech Montpellier (équivalent M1)**
 
@@ -39,20 +52,9 @@ nav_order: 4
 
 ---
 
-## 🤖 - Introduction à l'IA et ses enjeux
-
-*Chargé de cours en 2025-2026*
-
-**Cours de Semestre 6 de DevOps de Polytech Montpellier (équivalent L3)**
-
-- Cours : [Google Slides](https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing)
-- TP : [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session)
-
----
-
 ## 💻 - Utilisation des Systèmes Informatiques
 
-*Chargé de Travaux Pratiques en 2024-2025 et 2025-2026*
+*Chargé de Travaux Pratiques en 2024-2025 (9h) et 2025-2026 (30h)*
 
 **Cours de Semestre 1 PEIP de Polytech Montpellier (prépa intégrée équivalent L1)**
 
@@ -66,7 +68,7 @@ nav_order: 4
 
 ## 🧮 - Algorithmique
 
-*Chargé de Travaux Pratiques en 2024-2025*
+*Chargé de Travaux Pratiques en 2024-2025 (54h)*
 
 **Cours de Semestre 2 PEIP de Polytech Montpellier (prépa intégrée équivalent L1)**
 
