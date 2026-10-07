@@ -4,7 +4,7 @@ permalink: /code/
 title: code
 description: List of code packages, repositories and GitHub profiles.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <!-- PACKAGES -->

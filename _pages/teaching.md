@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: List of courses taught and materials used. (in French)
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div style="border: 1px solid var(--global-theme-color); border-radius: 20px; background: var(--global-code-bg-color); padding: 16px; margin: 20px 0; font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1em; color: var(--global-text-color);">

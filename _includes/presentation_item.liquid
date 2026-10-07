@@ -1,0 +1,28 @@
+<article class="presentation-item">
+  {% if include.presentation.image %}
+    <div class="presentation-preview">
+      {% include figure.liquid path=include.presentation.image loading="lazy" alt="Presentation thumbnail" %}
+    </div>
+  {% endif %}
+  <div class="presentation-content">
+    <h3 class="presentation-title">{{ include.presentation.title }}</h3>
+    {% if include.presentation.subtitle %}
+      <p class="presentation-subtitle">{{ include.presentation.subtitle }}</p>
+    {% endif %}
+    <div class="presentation-meta">
+      <strong>{{ include.presentation.event }}</strong>
+      {% if include.presentation.location or include.presentation.date %} <br/> {% endif %}
+      {% if include.presentation.location %}{{ include.presentation.location }}{% endif %}
+      {% if include.presentation.location and include.presentation.date %} &mdash; {% endif %}
+      {% if include.presentation.date %}{{ include.presentation.date | date: "%d %B %Y" }}{% endif %}
+    </div>
+    {% if include.presentation.description %}
+      <p>{{ include.presentation.description }}</p>
+    {% endif %}
+    <div class="presentation-links">
+      {% if include.presentation.event_info %}<a href="{{ include.presentation.event_info }}">Event info</a>{% endif %}
+      {% if include.presentation.slides %}<a href="{{ include.presentation.slides }}">Slides</a>{% endif %}
+      {% if include.presentation.video %}<a href="{{ include.presentation.video }}">Video</a>{% endif %}
+    </div>
+  </div>
+</article>

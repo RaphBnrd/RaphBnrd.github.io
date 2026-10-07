@@ -1,0 +1,68 @@
+# CiSStats 2026
+- title: Towards temporal trends in plants based on massive opportunistic data
+  highlight: false
+  subtitle: Combining occupancy models and deep learning algorithms
+  event: "CiSStats-RESSTE 2026 : Modéliser l’hétérogénéité des données"
+  event_info: https://cisstats.mathnum.inrae.fr/node/55
+  location: Avignon, France
+  date: 2026-02-03
+  image: /assets/presentations/20260202-Cisstats-slide13.png
+  slides: /assets/presentations/20260202-Cisstats.pdf
+  # slides: https://example.com/slides
+  # video: https://example.com/video
+
+# Ecostats 2026
+- title: OccuPYcy
+  highlight: false
+  subtitle: A Python package for fitting occupancy models to large datasets
+  event: "ecostat2026 : 12èmes journées du Réseau Thématique d'Ecologie Statistique (EcoStat)"
+  event_info: https://ecostat2026.sciencesconf.org/
+  location: Grenoble, France
+  date: 2026-05-27
+  image: /assets/presentations/20260527-Ecostat-slide4.png
+  slides: /assets/presentations/20260527-Ecostat.pdf
+
+# DeepSDM 2026
+- title: Deep Site-Occupancy Models (poster)
+  highlight: false
+  subtitle: Scaling Species Trend Estimation from Citizen Science Data
+  event: "DeepSDM Day 2026"
+  event_info: https://eceo-epfl.github.io/deepsdm2026/
+  location: Sion, Switzerland
+  date: 2026-06-12
+  image: /assets/presentations/20260612-DeepSDM-poster.png
+  slides: /assets/presentations/20260612-DeepSDM.pdf
+
+# WBF 2026
+- title: Deep Site-Occupancy Models
+  highlight: true
+  subtitle: for Plant species temporal Trend assessment from Citizen Science Data
+  event: "World Biodiversity Forum 2026 (session IND11)"
+  event_info: https://worldbiodiversityforum.org/
+  location: Davos, Switzerland
+  date: 2026-06-17
+  image: /assets/presentations/20260617-WBF2026-slide22.png
+  slides: /assets/presentations/20260617-WBF2026.pdf
+
+# Chiche
+- title: "La recherche dans le numérique"
+  highlight: true
+  subtitle: Programme de médiation scientifique dans les lycées
+  event: "1 scientifique, 1 classe : Chiche !"
+  event_info: https://chiche.inria.fr/
+  location: Lycée Jean Vilar, Villeneuve-lès-Avignon, France
+  date: 2026-01-26
+  image: /assets/presentations/20260126-Chiche-slide7.png
+  slides: /assets/presentations/20260126-Chiche.pdf
+
+# Séminaire ISDM
+- title: Données de Science Citoyenne pour le Suivi de la Biodiversité
+  highlight: false
+  # subtitle: 
+  event: Séminaire ISDM 2026
+  event_info: https://www.umontpellier.fr/agenda/autour-de-la-data-science
+  location: Montpellier, France
+  date: 2026-11-05
+  image: /assets/img/projects/dactylorhiza_brennensis.jpg
+  # image: /assets/presentations/20260315-ISDM-slide1.png
+  # slides: /assets/presentations/20260315-ISDM.pdf

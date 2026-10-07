@@ -1,0 +1,24 @@
+{% assign highlighted_presentations = site.data.presentations | where: "highlight", true %}
+{% assign other_presentations = site.data.presentations | where_exp: "presentation", "presentation.highlight != true" %}
+
+<div class="presentations">
+  {% if highlighted_presentations.size > 0 %}
+    <h2 class="presentations-section-title">Highlighted presentations</h2>
+    {% assign ordered_presentations = highlighted_presentations | where_exp: "presentation", "presentation.order" | sort: "order" %}
+    {% assign dated_presentations = highlighted_presentations | where_exp: "presentation", "presentation.order == nil" | sort: "date" | reverse %}
+    {% assign presentations = ordered_presentations | concat: dated_presentations %}
+    {% for presentation in presentations %}
+      {% include presentation_item.liquid presentation=presentation %}
+    {% endfor %}
+  {% endif %}
+
+  {% if other_presentations.size > 0 %}
+    <h2 class="presentations-section-title">Other presentations</h2>
+    {% assign ordered_presentations = other_presentations | where_exp: "presentation", "presentation.order" | sort: "order" %}
+    {% assign dated_presentations = other_presentations | where_exp: "presentation", "presentation.order == nil" | sort: "date" | reverse %}
+    {% assign presentations = ordered_presentations | concat: dated_presentations %}
+    {% for presentation in presentations %}
+      {% include presentation_item.liquid presentation=presentation %}
+    {% endfor %}
+  {% endif %}
+</div>
