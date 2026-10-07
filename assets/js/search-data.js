@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-presentations",
+          title: "presentations",
+          description: "Talks, seminars and conference presentations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/presentations/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "List of courses taught and materials used. (in French)",
