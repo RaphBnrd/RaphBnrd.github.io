@@ -7,8 +7,8 @@
   location: Avignon, France
   date: 2026-02-03
   image: /assets/presentations/20260202-Cisstats-slide13.png
-  slides: /assets/presentations/20260202-Cisstats.pdf
-  # slides: https://example.com/slides
+  content: /assets/presentations/20260202-Cisstats.pdf
+  # content: https://example.com/slides
   # video: https://example.com/video
 
 # Ecostats 2026
@@ -20,7 +20,7 @@
   location: Grenoble, France
   date: 2026-05-27
   image: /assets/presentations/20260527-Ecostat-slide4.png
-  slides: /assets/presentations/20260527-Ecostat.pdf
+  content: /assets/presentations/20260527-Ecostat.pdf
 
 # DeepSDM 2026
 - title: Deep Site-Occupancy Models (poster)
@@ -31,7 +31,7 @@
   location: Sion, Switzerland
   date: 2026-06-12
   image: /assets/presentations/20260612-DeepSDM-poster.png
-  slides: /assets/presentations/20260612-DeepSDM.pdf
+  content: /assets/presentations/20260612-DeepSDM.pdf
 
 # WBF 2026
 - title: Deep Site-Occupancy Models
@@ -42,7 +42,7 @@
   location: Davos, Switzerland
   date: 2026-06-17
   image: /assets/presentations/20260617-WBF2026-slide22.png
-  slides: /assets/presentations/20260617-WBF2026.pdf
+  content: /assets/presentations/20260617-WBF2026.pdf
 
 # Chiche
 - title: "La recherche dans le numérique"
@@ -53,7 +53,17 @@
   location: Lycée Jean Vilar, Villeneuve-lès-Avignon, France
   date: 2026-01-26
   image: /assets/presentations/20260126-Chiche-slide7.png
-  slides: /assets/presentations/20260126-Chiche.pdf
+  content: /assets/presentations/20260126-Chiche.pdf
+
+# ITW Pl@ntNet
+- title: "Transformer vos observations en connaissances scientifiques"
+  highlight: false
+  subtitle: "Entretien avec Raphaël Benerradi sur l’usage des données Pl@ntNet pour la Recherche"
+  event: "Article pour Pl@ntNet"
+  event_info: https://plantnet.org/
+  date: 2026-07-29
+  image: /assets/img/logo_plantnet_full.svg
+  content: https://plantnet.org/2026/07/29/transformer-vos-observations-en-connaissances-scientifiques-entretien-avec-raphael-benerradi-sur-lusage-des-donnees-plntnet-pour-la-recherche/
 
 # Séminaire ISDM
 - title: Données de Science Citoyenne pour le Suivi de la Biodiversité
@@ -63,6 +73,6 @@
   event_info: https://www.umontpellier.fr/agenda/autour-de-la-data-science
   location: Montpellier, France
   date: 2026-11-05
-  image: /assets/img/projects/dactylorhiza_brennensis.jpg
+  image: /assets/img/projects/dactylorhiza_brennensis_crop5_7.jpeg
   # image: /assets/presentations/20260315-ISDM-slide1.png
-  # slides: /assets/presentations/20260315-ISDM.pdf
+  # content: /assets/presentations/20260315-ISDM.pdf

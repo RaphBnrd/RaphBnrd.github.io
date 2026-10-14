@@ -20,9 +20,9 @@
       <p>{{ include.presentation.description }}</p>
     {% endif %}
     <div class="presentation-links">
-      {% if include.presentation.event_info %}<a href="{{ include.presentation.event_info }}">Event info</a>{% endif %}
-      {% if include.presentation.slides %}<a href="{{ include.presentation.slides }}">Slides</a>{% endif %}
+      {% if include.presentation.content %}<a href="{{ include.presentation.content }}">Content</a>{% endif %}
       {% if include.presentation.video %}<a href="{{ include.presentation.video }}">Video</a>{% endif %}
+      {% if include.presentation.event_info %}<a href="{{ include.presentation.event_info }}">Info</a>{% endif %}
     </div>
   </div>
 </article>

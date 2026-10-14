@@ -21,7 +21,7 @@ nav_order: 5
 *En DevOps 3 (~L3) : 1h30 en 2025-2026 et 3h en 2026-2027*
 
 - Cours : [Slides](https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing)
-- Atelier : *non partagé pour ne pas spoiler les étudiant·e·s (je peux bien sûr transmettre le contenu sur demande)*
+- Atelier : *non partagé pour ne pas divulgâcher les étudiant·e·s (je peux bien sûr transmettre le contenu sur demande)*
 - TP : [Notebook](https://colab.research.google.com/drive/12DY1tKljbFLElO84SCm1qN7MdP0eJ8uI?usp=sharing) *(contenu additionnels sur [Github](https://github.com/RaphBnrd/AI-Impacts-lab_session))*
 
 ---
