@@ -55,6 +55,17 @@
   image: /assets/presentations/20260126-Chiche-slide7.png
   content: /assets/presentations/20260126-Chiche.pdf
 
+# Cours sur l'IA générative et ses enjeux
+- title: "Cours sur l'IA générative et ses enjeux"
+  highlight: true
+  subtitle: Impact environnemental et sociétal
+  event: "Cours de DaMS4 et DevOps3"
+  event_info: /teaching/#introduction-ia
+  location: PolyTech Montpellier, France
+  date: 2026-11-04
+  image: /assets/presentations/20261106-Cours_IA_et_enjeux-slide1.png
+  content: https://docs.google.com/presentation/d/1UuKVhf4U_J6Zj2u9YB1In_dbkV3wz9ON8H9s38WrVVw/edit?usp=sharing
+
 # ITW Pl@ntNet
 - title: "Transformer vos observations en connaissances scientifiques"
   highlight: false

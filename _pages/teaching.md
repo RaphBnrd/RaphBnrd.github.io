@@ -2,7 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: List of courses taught and materials used. (in French)
+description: List of courses taught and materials used <strong>(in French...)</strong>.
+_styles: |
+  .teaching-section-anchor {
+    margin-left: 0.45rem;
+    color: var(--global-text-color-light);
+    font-size: 0.65em;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+  }
+
+  h2:hover .teaching-section-anchor,
+  .teaching-section-anchor:focus-visible {
+    opacity: 0.8;
+  }
 nav: true
 nav_order: 5
 ---
@@ -13,7 +26,7 @@ nav_order: 5
 </div>
 
 
-## 🤖 - Introduction à l'IA et ses enjeux
+## 🤖 - Introduction à l'IA et ses enjeux <a class="teaching-section-anchor" href="#introduction-ia" aria-label="Lien vers la section Introduction à l'IA et ses enjeux"><i class="fa-solid fa-link"></i></a> {#introduction-ia}
 
 **Chargé de cours à Polytech Montpellier** 
 
@@ -26,7 +39,7 @@ nav_order: 5
 
 ---
 
-## 🎲 - Probabilités, modélisation et statistique
+## 🎲 - Probabilités, modélisation et statistique <a class="teaching-section-anchor" href="#probabilites-modelisation-statistique" aria-label="Lien vers la section Probabilités, modélisation et statistique"><i class="fa-solid fa-link"></i></a> {#probabilites-modelisation-statistique}
 
 *Chargé de cours en 2025-2026 (27h) et 2026-2027 (27h)*
 
@@ -41,7 +54,7 @@ nav_order: 5
 
 ---
 
-## 📊 - Statistique et science des données
+## 📊 - Statistique et science des données <a class="teaching-section-anchor" href="#statistique-science-donnees" aria-label="Lien vers la section Statistique et science des données"><i class="fa-solid fa-link"></i></a> {#statistique-science-donnees}
 
 *Chargé de cours en 2026-2027 (18h)*
 
@@ -52,7 +65,7 @@ nav_order: 5
 
 ---
 
-## 💻 - Utilisation des Systèmes Informatiques
+## 💻 - Utilisation des Systèmes Informatiques <a class="teaching-section-anchor" href="#utilisation-systemes-informatiques" aria-label="Lien vers la section Utilisation des Systèmes Informatiques"><i class="fa-solid fa-link"></i></a> {#utilisation-systemes-informatiques}
 
 *Chargé de Travaux Pratiques en 2024-2025 (9h) et 2025-2026 (30h)*
 
@@ -66,7 +79,7 @@ nav_order: 5
 
 ---
 
-## 🧮 - Algorithmique
+## 🧮 - Algorithmique <a class="teaching-section-anchor" href="#algorithmique" aria-label="Lien vers la section Algorithmique"><i class="fa-solid fa-link"></i></a> {#algorithmique}
 
 *Chargé de Travaux Pratiques en 2024-2025 (54h)*
 
