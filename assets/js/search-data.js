@@ -25,14 +25,14 @@ ninja.data = [{
           },
         },{id: "nav-presentations",
           title: "presentations",
-          description: "Talks, seminars and conference presentations.",
+          description: "Talks, seminars and conference presentations (some are in french...).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/presentations/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "List of courses taught and materials used. (in French)",
+          description: "List of courses taught and materials used (in French...).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
