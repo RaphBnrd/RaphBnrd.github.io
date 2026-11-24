@@ -67,15 +67,6 @@ To do so, we developed a Python package called **OccuPYcy** for occupancy modeli
 
 More details in the [project page](/projects/package_occupycy/) or in the GitHub repository below:
 
-`The package is nearly cooked and will be released soon! 🧑‍🍳` 
-*Expected launch: end of June 2026.*
-
-<div align="center">
-  <img src="/assets/img/projects/ratatouille.gif" 
-        alt="Ratatouille" 
-        style="max-width: 300px; width: 100%; height: auto; display: block; border-radius: 15px;">
-</div>
-
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for package in site.data.packages.python_packages %}
     {% if package.name == "OccuPYcy" %}
