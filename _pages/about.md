@@ -31,12 +31,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 2nd year PhD student at University of Montpellier (France), mainly in the Inria team [IROKO](https://team.inria.fr/iroko/) at LIRMM. I'm working under the supervision of [Alexis Joly](https://www-sop.inria.fr/members/Alexis.Joly/), [Maximilien Servajean](https://maximiliense.github.io/), and [Christophe Botella](http://christophebotella.fr/). This project is integrated into [Pl@ntNet](https://www.plantnet.org/en/), a citizen science project for plant identification and biodiversity monitoring.
+I'm a 3rd year PhD student at University of Montpellier (France), mainly in the Inria team [IROKO](https://team.inria.fr/iroko/) at LIRMM. I'm working under the supervision of [Alexis Joly](https://www-sop.inria.fr/members/Alexis.Joly/), [Maximilien Servajean](https://maximiliense.github.io/), and [Christophe Botella](http://christophebotella.fr/). This project is integrated into [Pl@ntNet](https://www.plantnet.org/en/), a citizen science project for plant identification and biodiversity monitoring.
 
 My research is focused on **plant diversity monitoring**. In particular, I am interested in statistics and machine learning techniques for **Species Distribution Models** (SDM) using **Citizen Science** data. These methods aim to keep track of plant species distributions and their changes over time, in order to better understand the impact of global changes on biodiversity (more details [here](/projects/mapping_plant_species/)).
 
 Previously, I worked on the impact of forest roads on bird communities (more details [here](/projects/birds_and_roads/)) and on the sensitivity of fish stocks to climate change (more details [here](/projects/drivers_of_fish_stocks/)).
 
-I'm also involoved in teaching activities at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) in maths, statistics and computer science.
+I'm also involoved in teaching activities at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) in maths, statistics, machine learning, computer science and impact of generative AI.
 
-I have a background in applied mathematics and computer science and also a background in ecology. More broadly, I have interests in global changes such as biodiversity loss, pollutions and climate change.
+I have a background in applied mathematics, computer science, and ecology. More broadly, I am interested in global challenges such as biodiversity loss, pollution, and climate change, as well as the societal and environmental impacts of generative AI.
